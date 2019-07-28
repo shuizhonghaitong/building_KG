@@ -1,0 +1,16 @@
+{
+    "dynasty": "唐",
+    "author": "胥偃",
+    "poems": [
+        {
+            "title": "梦中诗",
+            "content": "昔作树头花，今为冢中骨。",
+            "comment": ""
+        },
+        {
+            "title": "句",
+            "content": "昔作树头花，今作冢下骨。",
+            "comment": ""
+        }
+    ]
+}
